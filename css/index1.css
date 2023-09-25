@@ -2,6 +2,7 @@
     display: flex;
     width: 1000px;
     margin: auto;
+    overflow: auto;
 
 }
 #container {
