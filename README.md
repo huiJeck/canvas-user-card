@@ -1,5 +1,7 @@
 # canvas-user-card
 
+预览：https://huijeck.github.io/canvas-user-card/
+
 #### 介绍
 前端本地生成个人名片，支持修改名称、性别、年龄、简介、头像等信息，可自定义背景样式。
 
